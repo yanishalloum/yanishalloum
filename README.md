@@ -10,6 +10,8 @@
 - 📫 How to reach me:
  **yanis.halloum@telecom-sudparis.eu**
 
+- 🔥 I am passionate about robotics, and I participated in the [French Robotic Cup](https://github.com/yanishalloum/CDR_2023)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yanis-halloum-1017a7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yanis-halloum-1017a7250/" height="30" width="40" /></a>
