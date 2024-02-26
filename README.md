@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [the detection of liver tumor using deep learning algorithms](https://github.com/yanishalloum/liver_tumor_classification)
 
-- 🌱 I’m currently learning how to implement [swarm intelligence](https://github.com/yanishalloum/drone_swarm)
+- 🌱 I’m currently learning how to implement [memory allocation in C](https://github.com/yanishalloum/memoryAllocation)
 
 - 📫 How to reach me:
  **yanis.halloum@telecom-sudparis.eu**
