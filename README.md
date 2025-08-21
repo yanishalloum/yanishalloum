@@ -5,7 +5,7 @@
 <h3 align="center">A Computer Science student at Institut Polytechnique de Paris (IPP)</h3>
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- 🔭 I’m currently working on [the detection of liver tumor using deep learning algorithms](https://github.com/yanishalloum/liver_tumor_classification)
+- 🔭 I’m currently working on [the detection of liver tumor using deep learning algorithms](https://github.com/yanishalloum/liver_tumor_classification) and [ORB monocular odometry for indoor navigation](https://github.com/yanishalloum/ORB-Monocular-Odometry-Python)
 
 - 🌱 I’m currently learning how to implement [dynamic memory allocation in C](https://github.com/yanishalloum/memoryAllocation)
 
