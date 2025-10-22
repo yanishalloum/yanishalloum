@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on [the detection of liver tumor using deep learning algorithms](https://github.com/yanishalloum/liver_tumor_classification) and [ORB monocular odometry for indoor navigation](https://github.com/yanishalloum/ORB-Monocular-Odometry-Python)
 
-- 🌱 I’m currently learning how to implement [dynamic memory allocation in C](https://github.com/yanishalloum/memoryAllocation) and an [indoor geolocation app](https://github.com/yanishalloum/GeolocationApp)
+- 🌱 I just finished a report on [the fuel flexibility & autoignition study of a gas turbine combustor — ](https://github.com/yanishalloum/Combustion) and an [indoor geolocation app](https://github.com/yanishalloum/GeolocationApp)
 
 - 📫 How to reach me:
- **yanis.halloum@telecom-sudparis.eu**
+ **yanishalloum@gmail.com**
 
 - 🔥 I am passionate about robotics, and I participated in the [French Robotic Cup](https://github.com/yanishalloum/CDR_2023)
 
