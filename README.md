@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/fr/8/81/Logo_de_l%27Institut_polytechnique_de_Paris.png" width="700">
 </p>
 <h1 align="center">Hi 👋, I'm Yanis Halloum</h1>
-<h3 align="center">A Computer Science student at Institut Polytechnique de Paris (IPP)</h3>
+<h3 align="center">A Master’s student in Aerospace Engineering at McGill University with a Bachelor’s in Artificial Intelligence from Institut Polytechnique de Paris. (IPP)</h3>
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🔭 I’m currently working on [the detection of liver tumor using deep learning algorithms](https://github.com/yanishalloum/liver_tumor_classification) and [ORB monocular odometry for indoor navigation](https://github.com/yanishalloum/ORB-Monocular-Odometry-Python)
