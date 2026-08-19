@@ -15,10 +15,10 @@
 
 M.Sc. graduate in Aerospace Engineering from the **Polytechnique Montréal / McGill** interuniversity program, with a B.Sc. in **Artificial Intelligence & Robotics** from Institut Polytechnique de Paris.
 
-I work where applied mathematics meets engineering: geometric modeling, scientific computing, and finite element analysis. I like problems where a cleaner formulation beats a bigger machine.
+My work lies where applied mathematics meets engineering: geometric modeling, scientific computing, and finite element analysis. 
 
 - 🛠️ **Currently:** R&D on CATIA's geometric modeling kernel at **Dassault Systèmes** : B-Splines/NURBS approximation, mesh subdivision, and 3D morphing in C++.
-- 🎯 **Recent result:** cut B-Spline surface approximation error by **2–3×** while keeping model size at or below the original : accuracy at no storage cost.
+- 🎯 **Recent result:** cut B-Spline surface approximation error by **3–4×** while keeping model size at or below the original.
 - 🧪 **Also into:** composite structures (Abaqus, Patran/Nastran), combustion modeling, SLAM and autonomous drones.
 - 🌍 **Languages:** French (native) · English (C2, TOEIC 990/990) · Spanish (B2)
 - 📫 **Reach me:** yanishalloum@gmail.com
