@@ -17,8 +17,8 @@ M.Sc. graduate in Aerospace Engineering from the **Polytechnique Montréal / McG
 
 I work where applied mathematics meets engineering: geometric modeling, scientific computing, and finite element analysis. I like problems where a cleaner formulation beats a bigger machine.
 
-- 🛠️ **Currently:** R&D on CATIA's geometric modeling kernel at **Dassault Systèmes** — B-Splines/NURBS approximation, mesh subdivision, and 3D morphing in C++.
-- 🎯 **Recent result:** cut B-Spline surface approximation error by **2–3×** while keeping model size at or below the original — accuracy at no storage cost.
+- 🛠️ **Currently:** R&D on CATIA's geometric modeling kernel at **Dassault Systèmes** : B-Splines/NURBS approximation, mesh subdivision, and 3D morphing in C++.
+- 🎯 **Recent result:** cut B-Spline surface approximation error by **2–3×** while keeping model size at or below the original : accuracy at no storage cost.
 - 🧪 **Also into:** composite structures (Abaqus, Patran/Nastran), combustion modeling, SLAM and autonomous drones.
 - 🌍 **Languages:** French (native) · English (C2, TOEIC 990/990) · Spanish (B2)
 - 📫 **Reach me:** yanishalloum@gmail.com
@@ -86,10 +86,10 @@ I work where applied mathematics meets engineering: geometric modeling, scientif
 
 ### Education
 
-**M.Sc. Aerospace Engineering** — Polytechnique Montréal / McGill University, 2026
+**M.Sc. Aerospace Engineering** : Polytechnique Montréal / McGill University, 2026
 <br>Computational mechanics · aircraft structures · propulsion · navigation systems · avionics · aerospace certification
 
-**B.Sc. Artificial Intelligence & Robotics** — Institut Polytechnique de Paris, Télécom SudParis, 2023
+**B.Sc. Artificial Intelligence & Robotics** : Institut Polytechnique de Paris, Télécom SudParis, 2023
 
 ---
 
