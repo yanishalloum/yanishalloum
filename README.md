@@ -91,9 +91,3 @@ My work lies where applied mathematics meets engineering: geometric modeling, sc
 
 **B.Sc. Artificial Intelligence & Robotics** : Institut Polytechnique de Paris, Télécom SudParis, 2023
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanishalloum&show_icons=true&hide_border=true&theme=default&hide_title=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanishalloum&layout=compact&hide_border=true&theme=default" height="150">
-</p>
