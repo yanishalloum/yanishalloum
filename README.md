@@ -6,7 +6,7 @@
   <a href="mailto:yanishalloum@gmail.com"><img src="https://img.shields.io/badge/Email-yanishalloum%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yanis-reda-halloum/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/yanishalloum"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Montr%C3%A9al%20%2F%20Paris-2d6cdf?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Based%20in-Montr%C3%A9al%20%2F%20Marseille-2d6cdf?style=for-the-badge">
 </p>
 
 ---
