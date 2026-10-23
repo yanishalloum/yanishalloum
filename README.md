@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,100:2d6cdf&height=180&section=header&text=Yanis%20Halloum&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Aerospace%20Engineer%20%7C%20Computational%20Geometry%20%26%20Simulation&descAlignY=55&descSize=18" width="100%">
-</p>
+![Yanis Halloum — Aerospace Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,100:2d6cdf&height=180&section=header&text=Yanis%20Halloum&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Aerospace%20Engineer%20%7C%20Computational%20Geometry%20%26%20Simulation&descAlignY=55&descSize=18)
 
 <p align="center">
   <a href="mailto:yanishalloum@gmail.com"><img src="https://img.shields.io/badge/Email-yanishalloum%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
