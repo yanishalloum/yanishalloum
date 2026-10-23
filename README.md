@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b2545,100:2d6cdf&amp;height=180&amp;section=header&amp;text=Yanis%20Halloum&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=34&amp;desc=Aerospace%20Engineer%20%7C%20Computational%20Geometry%20%26%20Simulation&amp;descAlignY=55&amp;descSize=18" width="100%">
+  <img src="./banner.png" width="100%" alt="Yanis Halloum — Aerospace Engineer">
 </p>
 
 <p align="center">
