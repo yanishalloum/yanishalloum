@@ -1,4 +1,6 @@
-![Yanis Halloum — Aerospace Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,100:2d6cdf&height=180&section=header&text=Yanis%20Halloum&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Aerospace%20Engineer%20%7C%20Computational%20Geometry%20%26%20Simulation&descAlignY=55&descSize=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,100:2d6cdf&height=180&section=header&text=Yanis%20Halloum&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Aerospace%20Engineer%20%7C%20Computational%20Geometry%20%26%20Simulation&descAlignY=55&descSize=18" width="100%">
+</p>
 
 <p align="center">
   <a href="mailto:yanishalloum@gmail.com"><img src="https://img.shields.io/badge/Email-yanishalloum%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -13,12 +15,12 @@
 
 M.Sc. graduate in Aerospace Engineering from the **Polytechnique Montréal / McGill** interuniversity program, with a B.Sc. in **Artificial Intelligence & Robotics** from Institut Polytechnique de Paris.
 
-My work lies where applied mathematics meets engineering: geometric modeling, scientific computing, and finite element analysis.
+My work lies where applied mathematics meets engineering: geometric modeling, scientific computing, and finite element analysis. 
 
-- **Currently:** R&D on CATIA's geometric modeling kernel at **Dassault Systèmes**: B-Splines/NURBS approximation, mesh subdivision, and 3D morphing in C++.
+- **Currently:** R&D on CATIA's geometric modeling kernel at **Dassault Systèmes** : B-Splines/NURBS approximation, mesh subdivision, and 3D morphing in C++.
 - **Recent result:** Improved B-Spline/NURBS surface approximation, on average: cutting approximation error by a factor of **3 to 4**, size by **30%**, and time by **50%**.
-- **Also into:** Composite structures (Abaqus, Patran/Nastran), combustion modeling, SLAM, autonomous drones, AI-driven audio processing, and computer vision.
-- **Languages:** French (native) · English (C2, TOEIC 990/990)
+- **Also into:** composite structures (Abaqus, Patran/Nastran), combustion modeling, SLAM and autonomous drones.
+- **Languages:** French (native) · English (C2, TOEIC 990/990) 
 - **Reach me:** yanishalloum@gmail.com
 
 ---
@@ -33,18 +35,7 @@ My work lies where applied mathematics meets engineering: geometric modeling, sc
 | [**Indoor Geolocation App**](https://github.com/yanishalloum/GeolocationApp) | Multimodal indoor positioning with cameras, Li-Fi luminaires and deep learning (CNRS) | Java · Python · SQL · Docker |
 | [**French Robotics Cup**](https://github.com/yanishalloum/CDR_2023) | Competition robot with a 10-person team: mechanical design and low-level control | C/C++ · CMake · Assembly |
 
-**Not on GitHub (reports available on request):** Lightning-strike thermo-mechanical modeling of a CFRP dome in Abaqus (Hashin failure criterion, coupled electro-thermal model) · stiffened panel design challenge, 3rd place at Concordia (210 kN/kg specific strength) · autonomous drone swarm for search-and-rescue, with the French Army.
-
----
-
-### AI & Audio Projects
-
-Exploring AI-driven systems at the intersection of audio signal processing, deep learning, computer vision, and interactive applications.
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Piano Tiles AI**](https://github.com/yanishalloum/piano-tiles-ai) | AI-powered piano transcription: extracting piano parts from music and converting them into interactive piano tiles, with distinct left- and right-hand visualization and playback controls for pausing, changing speed, and rewinding. | Python · Deep Learning · Audio Signal Processing |
-| [**Synthesizer-to-FL Studio AI**]() | AI-assisted synthesizer reconstruction from audio: analyzing a sound excerpt and optimizing synthesizer parameters—including oscillators, waveforms, filters, and tuning—to approximate the original sound in FL Studio. | Python · Audio Analysis · Numerical Optimization |
+**Not on GitHub (reports available on request):** lightning-strike thermo-mechanical modeling of a CFRP dome in Abaqus (Hashin failure criterion, coupled electro-thermal model) · stiffened panel design challenge, 3rd place at Concordia (210 kN/kg specific strength) · autonomous drone swarm for search-and-rescue, with the French Army.
 
 ---
 
@@ -95,9 +86,7 @@ Exploring AI-driven systems at the intersection of audio signal processing, deep
 
 ### Education
 
-**M.Sc. Aerospace Engineering** · Polytechnique Montréal / McGill University, 2026
+**M.Sc. Aerospace Engineering** : Polytechnique Montréal / McGill University, 2026
+<br>Computational mechanics · aircraft structures · propulsion · navigation systems · avionics · aerospace certification
 
-Computational mechanics · Aircraft structures · Propulsion · Navigation systems · Avionics · Aerospace certification
-
-**B.Sc. Artificial Intelligence & Robotics** · Institut Polytechnique de Paris, Télécom SudParis, 2023
-```
+**B.Sc. Artificial Intelligence & Robotics** : Institut Polytechnique de Paris, Télécom SudParis, 2023
