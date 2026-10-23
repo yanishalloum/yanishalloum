@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,100:2d6cdf&height=180&section=header&text=Yanis%20Halloum&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Aerospace%20Engineer%20%7C%20Computational%20Geometry%20%26%20Simulation&descAlignY=55&descSize=18" width="100%">
 </p>
